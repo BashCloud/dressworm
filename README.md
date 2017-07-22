@@ -2,4 +2,4 @@
 
 ### Instructions:
 
-1. Download and Install Visual Studio Code, from here.[on GitHub](https://github.com/jbt/markdown-editor)
+1. Download and Install Visual Studio Code, from [here](https://code.visualstudio.com/Download).
